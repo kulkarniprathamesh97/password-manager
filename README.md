@@ -44,7 +44,23 @@ python password_manager.py
 
 ## Screenshots
 
-*(Add a screenshot of the app here — main window, add password dialog, view passwords table)*
+## Screenshots
+
+**Main Window**
+![Main Window](screenshots/main-window.png)
+
+**Add Password Dialog**
+![Add Password](screenshots/add-password-popup.png)
+
+**Saved Passwords View**
+![Saved Passwords](screenshots/saved-password.png)
+
+**Generate Strong Password**
+![Generate Password](screenshots/generate-password.png)
+
+## Demo
+
+![Demo](screenshots/demo.gif)
 
 ## Future Improvements
 
